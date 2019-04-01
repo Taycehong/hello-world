@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+
+Hi humans!
+ I like Node.js and Coffeescript(that is what I am made of!).
